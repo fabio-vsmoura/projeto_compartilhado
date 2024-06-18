@@ -11,5 +11,7 @@
         Console.WriteLine($" palmeiras");
         Console.WriteLine($"Jonas ");
 
+        Console.WriteLine("Vai se lascas rony");
+        Console.WriteLine("Vai manoela ass:anônimo");
     }   
 }
