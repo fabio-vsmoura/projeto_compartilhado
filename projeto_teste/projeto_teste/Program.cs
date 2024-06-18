@@ -6,5 +6,6 @@
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Lendy Naiara");
         Console.WriteLine($"Nome do projeto: {nome_projeto}");
+        Console.WriteLine("Bebam agua");
     }
 }
