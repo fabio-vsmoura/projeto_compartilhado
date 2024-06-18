@@ -13,5 +13,6 @@
 
         Console.WriteLine("Vai se lascas rony");
         Console.WriteLine("Vai manoela ass:anônimo");
+        Console.WriteLine("A ideia é do h...");
     }   
 }
