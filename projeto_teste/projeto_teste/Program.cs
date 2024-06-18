@@ -12,7 +12,7 @@
         Console.WriteLine($"Jonas ");
 
         Console.WriteLine("Vai se lascas rony");
-        Console.WriteLine("Vai manoela ass:anônimo");
+        Console.WriteLine("Vai emanoela ass:anônimo");
         Console.WriteLine("A ideia é do h...");
         Console.WriteLine("vc tem alguma prova?");
     }   
